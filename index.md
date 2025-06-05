@@ -23,6 +23,6 @@ Why all this? Why make the effort and [put in the work and climb this mountain](
 
 Here are some materials I found to be particularly helpful and around which I’ve structured my syllabous:
 * [Courses](/courses/)
-* [Reading material](/reading/) 
+* [Reading material](/readings/) 
 
 Please feel free to [contact me on LinkedIn](https://www.linkedin.com/in/kaminski-pawel/)!
